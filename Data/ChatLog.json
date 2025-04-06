@@ -14,5 +14,13 @@
     {
         "role": "assistant",
         "content": "Based on the search results, Rony Majumder is an individual with multiple profiles on various social media platforms. Here's a summary of the information available:\n\n* He is a BIM Manager by profession, currently working at Jacobs Solutions Inc.\n* He is the Founder/Organizer of IGX - Frag Fight and International Gaming Expo.\n* He has studied Management at Jagannath University and attended Hasan Ali Govt. High School, Chandpur.\n* He has also studied at Chandpur Govt. College and the University of Dhaka.\n* In his personal life, he is an adventure seeker, gamer, and has various interests such as acrophilia, thalassophilia, oenophilia, canophilia, and technophilia.\n\nPlease note that this information is based on publicly available data and might not be exhaustive or up-to-date."
+    },
+    {
+        "role": "user",
+        "content": "What is the net worth of elon musk?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the available search results, as of April 6, 2025, Elon Musk's net worth is estimated to be:\n\n* $362.5 billion (as mentioned in the Forbes description)\n* $330 billion (as mentioned in the Wikipedia article, citing the Bloomberg Billionaires Index, as of March 2025)\n\nPlease note that net worth figures can fluctuate constantly due to various market and economic factors. These values might not reflect the current or exact net worth of Elon Musk."
     }
 ]

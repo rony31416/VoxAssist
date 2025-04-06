@@ -105,6 +105,8 @@ def RealtimeSearchEngine(prompt):
             answer += chunk.choices[0].delta.content
 
     # Clean up the response.
+
+    # print(answer)
     answer = answer.strip().replace("</s>", "")
     messages.append({"role": "assistant", "content": answer})
 
