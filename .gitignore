@@ -4,5 +4,5 @@ node_modules/
 package-lock.json
 yarn-error.log
 venv
-Data/ChatLog.json
+Data
 Data\ChatLog.json
