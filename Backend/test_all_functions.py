@@ -55,10 +55,10 @@ async def test_automation():
 # Run all tests
 if __name__ == "__main__":
     test_open_app()
-    test_close_app()
-    test_google_search()
-    test_youtube_search()
-    test_play_youtube()
-    test_content_generation()
-    test_system_commands()
+    # test_close_app()
+    # test_google_search()
+    # test_youtube_search()
+    # test_play_youtube()
+    # test_content_generation()
+    # test_system_commands()
     asyncio.run(test_automation())

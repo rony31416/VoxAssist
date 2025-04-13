@@ -224,7 +224,7 @@ def OpenApp(app, sess=requests.session()):
         
         return True
 
-OpenApp("facebook")  # Example usage of OpenApp function.
+# OpenApp("facebook")  # Example usage of OpenApp function.
 # Function to close an application.
 def CloseApp(app):
     if "chrome" in app:
